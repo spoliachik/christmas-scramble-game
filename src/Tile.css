@@ -1,0 +1,38 @@
+
+.green {
+    background-color: rgb(42, 126, 77);
+    padding: 15px;
+    display: float;
+    width: 15px;
+    height: 15px;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.transparent {
+    background-color: transparent;
+    padding: 15px;
+    display: float;
+    width: 15px;
+    height: 15px;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.image {
+    background-color: transparent;
+    padding: 15px;
+    display: float;
+    width: 15px;
+    height: 15px;
+    margin: 2px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.giftImage {
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
