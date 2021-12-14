@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/christmas-hook/static/css/main.c6e3e481.chunk.css",
+    "main.js": "/christmas-hook/static/js/main.111ed7a3.chunk.js",
+    "main.js.map": "/christmas-hook/static/js/main.111ed7a3.chunk.js.map",
+    "runtime-main.js": "/christmas-hook/static/js/runtime-main.3262c212.js",
+    "runtime-main.js.map": "/christmas-hook/static/js/runtime-main.3262c212.js.map",
+    "static/js/2.1ff04d43.chunk.js": "/christmas-hook/static/js/2.1ff04d43.chunk.js",
+    "static/js/2.1ff04d43.chunk.js.map": "/christmas-hook/static/js/2.1ff04d43.chunk.js.map",
+    "static/js/3.7d75935c.chunk.js": "/christmas-hook/static/js/3.7d75935c.chunk.js",
+    "static/js/3.7d75935c.chunk.js.map": "/christmas-hook/static/js/3.7d75935c.chunk.js.map",
+    "index.html": "/christmas-hook/index.html",
+    "static/css/main.c6e3e481.chunk.css.map": "/christmas-hook/static/css/main.c6e3e481.chunk.css.map",
+    "static/js/2.1ff04d43.chunk.js.LICENSE.txt": "/christmas-hook/static/js/2.1ff04d43.chunk.js.LICENSE.txt",
+    "static/media/gift.c4ac879c.png": "/christmas-hook/static/media/gift.c4ac879c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3262c212.js",
+    "static/js/2.1ff04d43.chunk.js",
+    "static/css/main.c6e3e481.chunk.css",
+    "static/js/main.111ed7a3.chunk.js"
+  ]
+}
